@@ -1,14 +1,8 @@
 # Default Starter
 
-Clone this repo and run 
-    
-```bash
-yarn install
-```
+Clone this repo and run `yarn install` to install all the dependencies :)
 
-to install all the dependencies :)
-
-### Tutorial additional dependencies? 
+### Need additional dependencies? 
 
 ```bash
 npx expo install (package-name)
