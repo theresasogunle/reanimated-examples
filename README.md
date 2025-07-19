@@ -8,3 +8,4 @@ Clone this repo and run `yarn install` to install all the dependencies :)
 npx expo install (package-name)
 ```
 # reanimated-examples
+# reanimated-examples
