@@ -7,3 +7,4 @@ Clone this repo and run `yarn install` to install all the dependencies :)
 ```bash
 npx expo install (package-name)
 ```
+# reanimated-examples
